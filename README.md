@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![QWERx29's GitHub stats](https://github-readme-stats.vercel.app/api?username=QWERx29)](https://github.com/anuraghazra/github-readme-stats)
+[![QWERx29's GitHub stats](https://github-readme-stats.vercel.app/api?username=QWERx29&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QWERx29&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
