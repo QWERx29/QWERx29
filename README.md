@@ -1,13 +1,5 @@
 ## Hello! This is QWERx29👋
 
-[My Blog(Deployed on Netlify)](https://phantasus.netlify.app)
-
-After registered GitHub, I found a name called **Phantasus**.
-
-As you see, **Phantasus** is a name better than *QWERx29* .
-
-However, it's hard to change the name. So forgot it.
-
 ------------------
 
 Here are some of my introductions:
