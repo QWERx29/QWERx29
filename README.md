@@ -4,9 +4,6 @@
 
 Here are some of my introductions:
 
-- An OIer at Dalian Yuming Senior High School.
-
-- Enthusiastic in exploring new things, so you'll see many died repositories under this account.
 
 - ?
 
